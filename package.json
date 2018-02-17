@@ -35,7 +35,7 @@
   "devDependencies": {
     "animate.css": "^3.5.2",
     "babel-eslint": "^8.0.3",
-    "bootstrap": "4.0.0-beta.2",
+    "bootstrap": "4.0.0",
     "devicon": "https://github.com/konpa/devicon.git#v2.2",
     "emergence.js": "^1.1.2",
     "eslint": "^4.13.0",
@@ -46,12 +46,12 @@
     "gh-pages": "^1.1.0",
     "husky": "^0.14.3",
     "lint-staged": "^6.0.0",
-    "normalize.css": "^7.0.0",
+    "normalize.css": "^8.0.0",
     "prettier": "^1.9.1",
     "striptags": "^3.1.1",
-    "textlint": "^9.1.1",
+    "textlint": "^10.1.4",
     "textlint-rule-preset-ja-spacing": "^2.0.1",
-    "textlint-rule-preset-japanese": "^2.0.0"
+    "textlint-rule-preset-japanese": "^4.0.0"
   },
   "keywords": [
     "gatsby",
